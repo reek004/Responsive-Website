@@ -8,6 +8,10 @@ This repository contains a responsive website built using HTML and CSS. The webs
 - Utilizes media queries for adapting the layout on different screen sizes.
 - Clean and structured HTML and CSS code.
 - Easy to understand and customize.
+
+## Preview 
+Link to website
+https://reek004.github.io/Responsive-Website/
   
 ## Technologies Used
 
