@@ -12,9 +12,6 @@ h1{
 h1 > span {
     color: #191970;
 }
-.head{
-    width: 55%;
-}
 .cards{
     display: inline-block;
 }
